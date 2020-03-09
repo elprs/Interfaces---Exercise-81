@@ -13,13 +13,13 @@ namespace Interfaces
         }
     }
 
-   interface A //einai en asumboleiao. den einai class. einai upografi sumbolaiou.  opos mia polisi spitiou. e enaw exei spi, o allos lefta, kai mia methodo na mou dosseis kai na parv leyta. 
+   interface A //einai ena sumboleiao. den einai class. einai upografi sumbolaiou.  opos mia polisi spitiou. e enaw exei spi, o allos lefta, kai mia methodo na mou dosseis kai na parv lefta. 
     {//px eimai mia cocacola kai thelo n ampo sto psigeio. an mporousa n aupigrapso to sumbolaio psigeio tha mporo na maino sto psigeio. 
-        //inteface : tipos dedomenos
+        //inteface : tipos dedomenon
         //dne exei tipota os implementation, dinei mono diatages : tha prpei n aexeis spiti, 8a prpeei na exeis lefta ktl
         //intefrce: kathorizei autes ti sidiotites
 
-    //itn age; //den mporo na balo
+    //int age; //den mporo na balo
         int  MyProperty { get; set; }
     
         //opoios to upograpsei kai susxeitstei me to symboleio A PREPEI na efarmosei o,ti leei to sumbolaio
